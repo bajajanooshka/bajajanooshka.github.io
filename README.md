@@ -3,7 +3,7 @@ Website link: https://bajajanooshka.github.io/
 
 This is an online bookshelf.\
 It consists of a dashboard which contains all the available books.
-Currently there are 3 books availble.\
+Currently there are 3 books available.\
 The title name, author name, category, year of publication and summary are displayed for each book.\
 You can choose which book to read and further select which chapter to go on to.
 
