@@ -1,2 +1,3 @@
-# bajajanooshka.github.io
-BookSpot - an online bookshelf
+# Book-Spot
+An online bookshelf\
+https://bajajanooshka.github.io/
