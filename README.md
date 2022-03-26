@@ -17,6 +17,6 @@ Instructions to set it up locally:
 3. Open the "index.html" file in any web browser.
 
 \
-Youtube video link:
+Youtube video link: https://youtu.be/9zX5ZpwhnWQ
 
 
